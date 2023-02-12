@@ -1,4 +1,4 @@
-# Simon Blahut
+# My name is Simon Blahut
 # Printing out my initials
 
 print(" SSS  BBBB ")
