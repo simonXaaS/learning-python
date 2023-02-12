@@ -1,6 +1,5 @@
 # I’ve decided to pursue the dream of small-business ownership and open up a furniture store called Lovely Loveseats. In this project, I will be storing the names and prices of a furniture store’s catalog in variables. I will then process the total price and item list of customers, printing them to the output terminal.
 
-
 # Store shop's first iteam in variable
 
 lovely_loveseat_description = """Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white.
