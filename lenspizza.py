@@ -27,7 +27,7 @@ num_pizzas = len(toppings)
 print("We sell {} different kinds of pizza!".format(num_pizzas))
 # I could also do this using f-strings. The code would look like this > print(f"We sell {num_pizzas} different kinds of pizza!")
 
-# Creating a new two-dimensional list called pizza_and_prices
+# Creating a new two-dimensional list called pizza_and_prices by combining the toppings and prices variables
 
 pizza_and_prices = list(zip(prices, toppings))
 print(pizza_and_prices)
