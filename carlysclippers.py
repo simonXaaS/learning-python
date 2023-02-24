@@ -1,4 +1,4 @@
-# I'm the the Data Analyst at Carly’s Clippers. My job is to go through the lists of data that have been collected in the past couple of weeks. 
+# I'm the the Data Analyst at Carly’s Clippers shop. My job is to go through the lists of data that have been collected in the past couple of weeks. 
 
 # I will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
 
